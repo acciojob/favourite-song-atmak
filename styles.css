@@ -1,6 +1,23 @@
 
-/* Your CSS Code here. */
-<head>
-    <title>My Favourite Song</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
+body {
+    background-color: #f3f3f3;
+    font-family: Arial, sans-serif;
+}
+
+div {
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+p {
+    font-size: 20px;
+    color: #333;
+}
+
+a {
+    color: #0088cc;
+    text-decoration: none;
+}

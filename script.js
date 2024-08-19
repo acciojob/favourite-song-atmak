@@ -1,5 +1,7 @@
-//your code here
-document.querySelector('a').addEventListener('click', function(event) {
-    alert('You are about to visit the YouTube link of the song!');
-    event.preventDefault();
-});
+<body>
+    <div>
+        <!-- Your content here -->
+    </div>
+    <script src="script.js"></script>
+</body>
+
